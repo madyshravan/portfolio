@@ -11,7 +11,7 @@ export default function Hero() {
         className="md:w-1/2 space-y-6"
       >
         <h1 className="text-5xl font-bold">
-          Hi, I'm <span className="text-indigo-600">Your Name</span>
+          Hi, I’m <span className="text-indigo-600">Your Name</span>
         </h1>
         <h2 className="text-2xl text-gray-600">
           Frontend Developer 💻 | React & Next.js Enthusiast
@@ -57,7 +57,7 @@ export default function Hero() {
         <div className="flex flex-col justify-center px-12 bg-gray-50">
           <p className="uppercase text-red-500 font-semibold mb-3">Hello</p>
           <h1 className="text-5xl md:text-6xl font-serif font-bold leading-tight mb-6">
-            I&apos;m Your Name <br /> a frontend developer <br /> based in Somewhere.
+            I'm Your Name <br /> a frontend developer <br /> based in Somewhere.
           </h1>
           <div className="flex gap-6">
             <button className="px-6 py-3 bg-black text-white font-medium hover:bg-gray-800">

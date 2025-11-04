@@ -39,7 +39,7 @@ export default function Project({ theme, toggleTheme }) {
             🚀 My Recent Work
           </h2>
           <p className="text-lg md:text-xl mb-6">
-            A collection of projects I&apos;ve built using React, Next.js, and
+            A collection of projects I’ve built using React, Next.js, and
             Tailwind CSS. Each project reflects my journey in frontend
             development.
           </p>
